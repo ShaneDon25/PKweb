@@ -38,5 +38,13 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #505050;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  color: #964d4d;
 }
