@@ -9,9 +9,11 @@ function App() {
   return (
     <>
       <nav className="navbar">
-
+        <rectangle className="navbar-item">
+          <a href="/">Home</a>
+        </rectangle>
       </nav>
-      
+
       <div>
         
         <a href="https://vite.dev" target="_blank">
